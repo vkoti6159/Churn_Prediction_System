@@ -20,8 +20,8 @@ A Machine Learning project that predicts which customers are likely to leave a s
 
 Here’s a preview of the Power BI dashboards generated for this project:
 
-![Dashboard 1](powerbi dashboards/dashboard1.png)  
-![Dashboard 2](powerbi dashboards/FinalDashBoard.png)  
+![Dashboard 1](powerbidashboards/dashboard1.png)  
+![Dashboard 2](powerbidashboards/FinalDashBoard.png)  
 
 > Make sure the screenshots are saved in `powerbi dashboards/` folder with the same filenames.
 
